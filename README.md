@@ -53,19 +53,20 @@ LSA 工具基于 MATLAB App Designer 开发，主类继承自 matlab.apps.AppBas
 
 ## 📊 核心数学模型
 
-1.传递函数：
-[
+传递函数：
+\[
 G(s) = \frac{b_m s^m + \cdots + b_0}{a_n s^n + \cdots + a_0}
-]
-2.伯德图幅值：
-[
-L(\omega) = 20 \log_{10} |G(j\omega)| \quad [\text{dB}]
-]
-3.二阶系统标准形式：
-[
-G(s) = \frac{\omega_n^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}
-]
+\]
 
+伯德图幅值：
+\[
+L(\omega) = 20 \log_{10} |G(j\omega)| \quad [\text{dB}]
+\]
+
+二阶系统标准形式：
+\[
+G(s) = \frac{\omega_n^2}{s^2 + 2\zeta \omega_n s + \omega_n^2}
+\]
 ##📸 界面截图
 
 <img width="982" height="982" alt="image" src="https://github.com/user-attachments/assets/频域分析" />
