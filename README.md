@@ -70,17 +70,28 @@ $$
 
 ## 📸 界面截图
 
-<img width="981" height="985" alt="image" src="https://github.com/user-attachments/assets/563d24e9-340c-43ed-b818-6a2b130fdd28" />
-
-
-<img width="981" height="985" alt="image" src="https://github.com/user-attachments/assets/ea13648b-2296-4673-9b2b-7ad497fa8747" />
-
-
-<img width="981" height="985" alt="image" src="https://github.com/user-attachments/assets/9ca5a19e-14f4-42d0-9212-86ee6c7c4a97" />
-
-<img width="1103" height="798" alt="image" src="https://github.com/user-attachments/assets/2d53c897-20c7-4d99-92db-3e473e20ac6b" />
-
-
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/563d24e9-340c-43ed-b818-6a2b130fdd28" width="360"><br>
+      <sub><b>频域分析</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/ea13648b-2296-4673-9b2b-7ad497fa8747" width="360"><br>
+      <sub><b>时域分析</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/9ca5a19e-14f4-42d0-9212-86ee6c7c4a97" width="360"><br>
+      <sub><b>根轨迹分析</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/2d53c897-20c7-4d99-92db-3e473e20ac6b" width="360"><br>
+      <sub><b>补偿器设计</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
