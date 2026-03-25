@@ -63,7 +63,7 @@ $$
 
 二阶系统标准形式：
 $$
-G(s) = \frac{\omega_n^2}{s^2 + 2\zeta \omega_n s + \omega_n^2}
+G(s) = \frac{\omega_n^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}
 $$
 
 ## 📸 界面截图
